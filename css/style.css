@@ -1044,10 +1044,8 @@ ul {
 .s-foot-btm-wrap2 {}
 
 
-/* === RESPONSIVE TWEAKS === */
 
-/* ===== TABLET (max-width: 1024px) ===== */
-@media (max-width: 1024px) {
+/* @media (max-width: 1024px) {
     .container{
         padding: 0 20px;
     }
@@ -1114,7 +1112,6 @@ ul {
     }
 }
 
-/* ===== MOBILE (max-width: 768px) ===== */
 @media (max-width: 768px) {
     .container{
         padding: 0 20px;
@@ -1218,7 +1215,6 @@ ul {
     }
 }
 
-/* ===== SMALL MOBILE (max-width: 480px) ===== */
 @media (max-width: 480px) {
     .s-ser-wrap2 {
         display: none;
@@ -1298,4 +1294,4 @@ ul {
         width: 35px;
         height: 35px;
     }
-}
+} */ */
